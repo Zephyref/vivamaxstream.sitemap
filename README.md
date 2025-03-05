@@ -8,7 +8,6 @@
   <img src="https://github.com/user-attachments/assets/68627492-fbbf-4250-94f4-285ebab245cd" width="600">
 </p>
 
-<hr>
 
 <h2 align="center" style="color: #00ff00;">✨ Features ✨</h2>
 
@@ -19,7 +18,6 @@
   ✅ <span style="color: #ff00ff;">User-Friendly Interface</span> – Easy to navigate<br>
 </p>
 
-<hr>
 
 <h2 align="center" style="color: #ffff00;">🎉 How to Watch? 🎉</h2>
 
@@ -29,7 +27,7 @@
   <li>Sit back, relax, and enjoy! 🍿</li>
 </ol>
 
-<hr>
+
 
 <h2 align="center" style="color: #00ffff;">💖 Support & Follow Us 💖</h2>
 
